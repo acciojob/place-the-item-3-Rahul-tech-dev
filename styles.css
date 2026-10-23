@@ -1,4 +1,7 @@
 .holder{
+	display:flex;
 	flex:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
 }
 /* Your CSS Code here. */
